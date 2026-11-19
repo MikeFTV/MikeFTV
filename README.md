@@ -18,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 Je conçois et je fais évoluer des applications web et mobiles de bout en bout : architecture, API, front, base de données et mise en production.
-**Architecte logiciel (poste actuel)** : microservices PHP, React, MariaDB, CI/CD ; auparavant **développeur backend senior chez France Télévisions Publicité** (API REST critiques, Symfony, DynamoDB, Redis), et une dizaine de projets en freelance.
+**Architecte logiciel chez Optilian** (depuis août 2025) : architecture microservices en PHP, React, MariaDB et pipeline CI/CD ; auparavant **développeur backend senior chez France Télévisions Publicité** (API REST critiques, Symfony, DynamoDB, Redis), et une dizaine de projets en freelance.
 Mon fil rouge : **performance, scalabilité et maintenabilité, du code à la production.**
 
 ## Ce que j'apporte
@@ -60,7 +60,7 @@ Parcours sur [LinkedIn](https://www.linkedin.com/in/mikedevfr), projets sur [nuk
 📍 **Paris, France** | 🏗️ **Software architect & senior full-stack developer** | 🌐 **[nukoe.com](https://nukoe.com)**
 
 I design and evolve web and mobile applications end to end: architecture, APIs, front end, database and production.
-**Software architect (current role)**: PHP microservices, React, MariaDB, CI/CD; previously **senior backend developer at France Télévisions Publicité** (critical REST APIs, Symfony, DynamoDB, Redis), plus about ten freelance projects.
+**Software architect at Optilian** (since August 2025): PHP microservices architecture, React, MariaDB and CI/CD pipeline; previously **senior backend developer at France Télévisions Publicité** (critical REST APIs, Symfony, DynamoDB, Redis), plus about ten freelance projects.
 My guiding line: **performance, scalability and maintainability, from code to production.**
 
 ### What I bring
