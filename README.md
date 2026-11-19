@@ -49,9 +49,9 @@ Je contribue aux projets que j'utilise au quotidien : la liste de mes [pull requ
 ## Ouvert à un CDI
 
 Je cherche un poste d'**architecte logiciel** ou de **développeur full-stack senior**, à Paris.
-📅 **Disponible pour un CDI, prise de poste sous 1 mois.** Parcours complet sur [LinkedIn](https://www.linkedin.com/in/mikedevfr).
+📅 **Disponible pour un CDI, prise de poste sous 1 mois.** CV en français et en anglais : [yov.me/way/createur.html](https://yov.me/way/createur.html) · parcours sur [LinkedIn](https://www.linkedin.com/in/mikedevfr).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikedevfr) [![E-mail](https://img.shields.io/badge/-mike@nukoe.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mike@nukoe.com) [![Site](https://img.shields.io/badge/-nukoe.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nukoe.com)
+[![CV](https://img.shields.io/badge/-CV-2EA44F?style=flat-square&logo=readthedocs&logoColor=white)](https://yov.me/way/createur.html) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikedevfr) [![E-mail](https://img.shields.io/badge/-mike@nukoe.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mike@nukoe.com) [![Site](https://img.shields.io/badge/-nukoe.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nukoe.com)
 
 <details>
 <summary>🇬🇧 English version</summary>
@@ -92,6 +92,6 @@ I contribute to the projects I use every day: my [pull requests](https://github.
 ### Open to a permanent role
 
 Looking for a **software architect** or **senior full-stack developer** position in Paris.
-📅 **Available for a permanent role, start within 1 month.** Full background on [LinkedIn](https://www.linkedin.com/in/mikedevfr).
+📅 **Available for a permanent role, start within 1 month.** CV in French and English: [yov.me/way/createur.html](https://yov.me/way/createur.html) · background on [LinkedIn](https://www.linkedin.com/in/mikedevfr).
 
 </details>
