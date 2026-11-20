@@ -26,7 +26,7 @@ Mon fil rouge : **performance, scalabilité et maintenabilité, du code à la pr
 - **Architecture** : découpage en microservices PHP, API REST, choix techniques argumentés et standards d'équipe.
 - **Modernisation de code ancien** : migrations vers PHP 8.4, conteneurisation Docker, déploiement automatisé, passage à Android 14.
 - **Performance** : index et refonte de requêtes MariaDB, mesures avant et après, Lighthouse à 100.
-- **Sécurité** : audits applicatifs selon l'OWASP, corrections vérifiées par contre-test (OWASP ZAP, sqlmap).
+- **Sécurité par conception** : audits OWASP vérifiés par contre-test (OWASP ZAP, sqlmap) ; blocage réseau (fail2ban, accès filtré par IP, WireGuard) et SSH par clé seule ; HSTS, CSP, cookies HttpOnly et SameSite, requêtes préparées ; DNSSEC, DKIM, DMARC p=reject, MTA-STS ; chaîne d'approvisionnement (gitleaks, contrôles avant commit, veille des failles des agents de codage IA).
 - **Qualité** : revues de code, tests automatisés et pipelines CI/CD (GitLab CI, GitHub Actions).
 
 ## Quelques preuves
@@ -68,7 +68,7 @@ My guiding line: **performance, scalability and maintainability, from code to pr
 - **Architecture**: PHP microservices, REST APIs, reasoned technical choices and team standards.
 - **Legacy modernisation**: migrations to PHP 8.4, Docker containers, automated deployment, upgrade to Android 14.
 - **Performance**: MariaDB indexes and query rewrites, measured before and after, Lighthouse at 100.
-- **Security**: application audits following OWASP, fixes verified by re-testing (OWASP ZAP, sqlmap).
+- **Security by design**: OWASP audits verified by re-testing (OWASP ZAP, sqlmap); network blocking (fail2ban, IP-restricted access, WireGuard) and key-only SSH; HSTS, CSP, HttpOnly and SameSite cookies, prepared statements; DNSSEC, DKIM, DMARC p=reject, MTA-STS; supply chain (gitleaks, pre-commit checks, AI coding agent vulnerability tracking).
 - **Quality**: code reviews, automated tests and CI/CD pipelines (GitLab CI, GitHub Actions).
 
 ### Some proof
