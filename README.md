@@ -46,6 +46,8 @@ Mon fil rouge : **performance, scalabilité et maintenabilité, du code à la pr
 
 Je contribue aux projets que j'utilise au quotidien : la liste de mes [pull requests](https://github.com/pulls?q=is%3Apr+author%3AMikeFTV+-user%3AMikeFTV) est publique.
 
+🛡️ Sécurité des agents de codage IA : [awesome-coding-agent-security](https://github.com/nukoe-labs/awesome-coding-agent-security) (incidents, avis et défenses, sources primaires) et [wormsign](https://github.com/nukoe-labs/wormsign) (vers d'agents dans un compte GitHub).
+
 ## Contact
 
 Parcours sur [LinkedIn](https://www.linkedin.com/in/mikedevfr), projets sur [nukoe.com](https://nukoe.com).
@@ -87,6 +89,8 @@ My guiding line: **performance, scalability and maintainability, from code to pr
 ### Open source
 
 I contribute to the projects I use every day: my [pull requests](https://github.com/pulls?q=is%3Apr+author%3AMikeFTV+-user%3AMikeFTV) are public.
+
+🛡️ AI coding agent security: [awesome-coding-agent-security](https://github.com/nukoe-labs/awesome-coding-agent-security) (incidents, advisories and defenses, primary sources) and [wormsign](https://github.com/nukoe-labs/wormsign) (agent worms in a GitHub account).
 
 ### Contact
 
